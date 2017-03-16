@@ -24,7 +24,7 @@ dependencyManagement {
 sourceCompatibility = 1.8
 
 springBoot {
-    mainClass = "com.jorgehernandezramirez.spring.springboot.eureka.Application"
+    mainClass = "com.jorgehernandezramirez.spring.springcloud.Application"
 }
 
 repositories {
